@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Comic Sans';
+    src: url('../bettermotherfuckingwebsite/fonts/comic.ttf');
+}
+
 body {
     width: 43%;
     margin: auto;
@@ -27,4 +32,11 @@ img {
     margin-left: 21.5%;
     margin-bottom: 5%;
     margin-top: 5%;
+}
+
+button {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 30%;
+    font-size: 1em;
 }
